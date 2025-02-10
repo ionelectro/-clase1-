@@ -26,7 +26,7 @@ kilometros = int(input())
 print("-------------------------")
 
 # calcular el salario base
-salario_base = horas_trabajadas * precio_hora
+salario_base = precio_hora * 36
 
 # calcular las horas extra
 horas_extra = 0
